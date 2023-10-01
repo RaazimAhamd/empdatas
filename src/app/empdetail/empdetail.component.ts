@@ -46,7 +46,6 @@ export class EmpdetailComponent implements OnInit {
 }
 back(){
   this.router.navigate(['/']);
-  // this.getAllOwners();
 }
 
 }
